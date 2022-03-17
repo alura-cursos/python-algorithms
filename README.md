@@ -12,7 +12,7 @@ Then we will move on to the search algorithms, and then we will implement the mo
 <li><a href="https://github.com/brendorodrigo/python-algorithms/blob/main/search/binary_search.py"> Binary Search - O(Lg N) </a></li>
 </ul>
 
-##Sort Algorithms
+## Sort Algorithms
 
 <ul>
 <li><a href="https://github.com/brendorodrigo/python-algorithms/blob/main/sort/selection_sort.py"> Selection Sort - O(n²) </a></li>
