@@ -27,8 +27,9 @@ def busca(lista, nome_pesquisado):
 
 def main():
     lista_de_alunos = sorted(importa_lista('../data/lista_alunos'))
-    posicao_do_aluno = busca(lista_de_alunos, "Zeina")
-    print("Aluno(a) {} está na posição {}".format(lista_de_alunos[posicao_do_aluno], posicao_do_aluno))
+    for i in range(0,3500):
+        posicao_do_aluno = busca(lista_de_alunos, "Zeina")
+        print("Aluno(a) {} está na posição {}".format(lista_de_alunos[posicao_do_aluno], posicao_do_aluno))
 
 if __name__ == "__main__":
     main()
