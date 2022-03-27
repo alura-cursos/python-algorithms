@@ -21,4 +21,4 @@ Then we will move on to the search algorithms, and then we will implement the mo
 </ul>
 
 
-by Brendo Matos
+by @brendorodrigo
