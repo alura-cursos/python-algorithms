@@ -20,3 +20,4 @@ Then we will move on to the search algorithms, and then we will implement the mo
 <li><a href="https://github.com/brendorodrigo/python-algorithms/blob/main/sort/quick_sort.py"> Quick Search - O(N lg N) </a></li>
 </ul>
 
+By Brendo Matos
